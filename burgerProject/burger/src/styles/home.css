@@ -1,0 +1,21 @@
+.homePage{
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.order{
+    margin: 100px;
+}
+.order a{
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
